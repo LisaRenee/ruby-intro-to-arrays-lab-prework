@@ -16,3 +16,7 @@ end
 def last_element (a)
   a[-1]
 end
+
+def first_element_with_array_methods(a)
+  a.first
+end
