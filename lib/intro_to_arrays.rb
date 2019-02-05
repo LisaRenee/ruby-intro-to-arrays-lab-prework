@@ -8,6 +8,3 @@ end
 def first_element(a)
   a[0]
 end
-  
-  
-
