@@ -12,3 +12,7 @@ end
 def third_element(a)
   a[2]
 end
+
+def last_element (a)
+  a[-1]
+end
